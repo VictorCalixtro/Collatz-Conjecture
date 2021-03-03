@@ -20,11 +20,11 @@ Since the conjecture has not yet been proven with modern mathmatics the program 
 <br><br>
 If you are using a debian based linux distro you can install nvidia's compiler by using
 ...
-sudo apt install nvidia-cuda-toolkit
+$ sudo apt install nvidia-cuda-toolkit
 ...
 You can then run the program by running the following command.
 ...
-nvcc -o main collatzConjectureCUDA.cu 10001
+$ nvcc -o main collatzConjectureCUDA.cu 10001
 ...
 
 Where the 10001 is the number we are trying to count the number of step for it to reach 1.
