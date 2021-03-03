@@ -28,6 +28,12 @@ $ nvcc -o main collatzConjectureCUDA.cu
 ```
 Lastly you run the program by using 
 ```
-./main 10001
+./main Your_Number_Goes_Here 
 ```
-Where the 10001 is the number we are trying to count the number of step for it to reach 1.
+For example
+```
+./main 101 
+```
+
+Where the 101 is the number we are trying to count the num of steps for the conjecture to reach 1.
+<br>***Important*** the number must be at least 5 && an odd number.
