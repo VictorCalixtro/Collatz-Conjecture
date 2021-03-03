@@ -11,3 +11,5 @@ The Collatz conjecture is a conjecture in mathematics that concerns a sequence d
 <br> First Few Sequences
 
 <img align="left" alt="Collatz Conjecture Sequences" width="450px" src="https://i0.wp.com/risingentropy.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-11-at-10.37.52-PM.png?resize=768%2C192&ssl=1" />
+
+# The aim of this program is to count the number of sequences from really large numbers
